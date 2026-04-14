@@ -1,63 +1,65 @@
-# 🚀 Full Stack & MERN Developer | CodingByRajeev
+# 🚀 MERN Stack Developer | CodingByRajeev
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Role-MERN%20Stack%20Developer-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
 </p>
 
 ## 👋 Hi, I'm Rajeev Kumar
-A dedicated **MERN Stack Developer** from Noida 🇮🇳. I specialize in building high-performance web applications using React, Node.js, and modern JavaScript. I love turning complex business requirements into scalable digital solutions.
+A dedicated **MERN Stack Developer** from Noida 🇮🇳. Main modern web technologies use karke scalable aur high-performance applications banane mein specialize karta hoon. Mera focus **MongoDB database architecture** aur **React functional components** par zyada rehta hai.
 
 ---
 
-## 📂 Featured Project Highlights (Full Stack & MERN)
+## 🛠️ My MERN Arsenal (Tech Stack)
 
-### [🚀 ZijGo](https://github.com/Cod-Rajeev/ZijGo)
-* **Core:** **Full Stack / MERN**
-* **Description:** A comprehensive web application built with a modern tech stack focusing on seamless user experience and robust backend logic.
-* **Tech:** React, JavaScript, Node.js, Express.
+### 🗄️ Backend & Database (Core)
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### [🔮 Ekankastro Frontend](https://github.com/Cod-Rajeev/ekankastro-frontend)
-* **Core:** **MERN Stack / Astrology Platform**
-* **Description:** A specialized frontend for an astrology-based platform, featuring dynamic data rendering and interactive UI components.
-* **Tech:** React.js, Tailwind CSS, API Integration.
-
-### [🌌 Astrology App](https://github.com/Cod-Rajeev/Astrology)
-* **Core:** **Full Stack Logic**
-* **Description:** Developed a logic-driven application to handle complex astrological calculations and user data management.
-* **Tech:** JavaScript, CSS3, HTML5.
-
-### [🛍️ Myntra & Flipkart Clones](https://github.com/Cod-Rajeev/Myntra-Clone-js)
-* **Core:** **Frontend Engineering**
-* **Description:** High-fidelity e-commerce clones that demonstrate pixel-perfect UI design and responsive layouts.
-* **Tech:** React, Tailwind CSS, JavaScript.
-
----
-
-## 🛠️ My Tech Arsenal
-
-### 💻 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & CMS
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cod-Rajeev&show_icons=true&theme=dark&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cod-Rajeev&layout=compact&theme=dark" />
+### 💻 Frontend & Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Get In Touch
+## 📂 Top Full Stack & MERN Projects
+
+### [🚀 ZijGo](https://github.com/Cod-Rajeev/ZijGo)
+* **Stack:** **MERN (MongoDB, Express, React, Node.js)**
+* **Details:** Ye mera primary full-stack project hai jismein maine robust backend architecture aur dynamic React frontend ko integrate kiya hai.
+* **Database:** MongoDB for seamless data storage and retrieval.
+
+### [🛍️ Shopiy App Project](https://github.com/Cod-Rajeev/shopiy-app-project)
+* **Stack:** **MERN Stack**
+* **Details:** Ek feature-rich e-commerce application jismein product management aur user cart functionality par kaam kiya gaya hai.
+* **Database:** Efficient MongoDB schema design for product catalogs.
+
+### [✨ Myntra & Flipkart Clones](https://github.com/Cod-Rajeev/Myntra-Clone-js)
+* **Stack:** **React, Node.js, MongoDB**
+* **Details:** Industry-standard UI clones jo complex state management aur responsive design engineering ko showcase karte hain.
+
+---
+
+## 📊 GitHub Performance Metrics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cod-Rajeev&show_icons=true&theme=dark&rank_icon=github&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cod-Rajeev&layout=compact&theme=dark" />
+</p>
+
+### 📈 Contribution Activity
+![Rajeev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cod-Rajeev&theme=react-dark)
+
+---
+
+## 🌐 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/rajeev-kumar-56475029a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/rajeev_a._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -65,5 +67,9 @@ A dedicated **MERN Stack Developer** from Noida 🇮🇳. I specialize in buildi
 </p>
 
 ---
-### ✍️ Dev Quote
+
+### ✍️ Random Dev Quote
 ![Quote](https://github-readme-quotes.vercel.app/quote?theme=dark&border_radius=10)
+
+### 😂 Dev Meme
+![Meme](https://github-readme-memes.vercel.app/meme?theme=dark)
