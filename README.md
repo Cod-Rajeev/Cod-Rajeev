@@ -10,6 +10,14 @@ A dedicated **MERN Stack Developer** from Noida 🇮🇳. Main modern web techno
 
 ---
 
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/rajeev-kumar-56475029a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/rajeev_a._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://racode.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</p>
+---
+
 ## 📂 Top Full Stack & MERN Projects
 
 ### [🚀 ZijGo](https://github.com/Cod-Rajeev/ZijGo)
@@ -65,14 +73,7 @@ A dedicated **MERN Stack Developer** from Noida 🇮🇳. Main modern web techno
 ### 📈 Activity Graph
 ![Rajeev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cod-Rajeev&theme=react-dark)
 
----
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/rajeev-kumar-56475029a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/rajeev_a._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://racode.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</p>
 
 ---
 ### ✍️ Daily Dev Quote
