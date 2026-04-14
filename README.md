@@ -17,7 +17,7 @@ A dedicated **MERN Stack Developer** from Noida 🇮🇳. Main modern web techno
 * **Details:** Ye mera core MERN stack project hai jo real-time data connectivity aur scalable backend logic ko showcase karta hai.
 * **Database:** MongoDB for structured data management.
 
-### [🌟 Ekankastro Frontend](https://github.com/Cod-Rajeev/ekankastro-frontend)
+### [🌟 Ekankastro](https://github.com/Cod-Rajeev/ekankastro-frontend)
 * **Stack:** **MERN Stack Development**
 * **Details:** Ek high-performance frontend jo complex APIs ke saath interact karta hai. Ismein MERN stack ki connectivity aur clean UI ka use kiya gaya hai.
 * **Database:** MongoDB integration for user-specific data.
@@ -39,12 +39,12 @@ A dedicated **MERN Stack Developer** from Noida 🇮🇳. Main modern web techno
 
 ## 🛠️ Frontend & Styling (Core Skills)
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Database
