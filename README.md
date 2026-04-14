@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajeev Kumar (Cod-Rajeev)
 
 <p align="center">
-  <img src="https://github.com/Cod-Rajeev.png" width="120" height="120" style="border-radius: 50%;">
+  <img src="https://github.com/Cod-Rajeev.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #61DAFB;">
 </p>
 
 ### 🚀 Full Stack & WordPress Developer
@@ -25,24 +25,33 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cod-Rajeev&show_icons=true&theme=dark&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cod-Rajeev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cod-Rajeev&layout=compact&theme=dark&hide_border=false" />
 </p>
 
-### 📈 Contribution Graph
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=Cod-Rajeev&theme=darkhub&no-frame=false" />
+</p>
+
+### 📈 Activity Graph
 ![Rajeev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cod-Rajeev&theme=react-dark)
 
 ---
 
-## ✍️ Coding Motivation & Humor
+## ✍️ Daily Coding Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/quote?type=horizontal&theme=dark" />
-  <br><br>
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark&border_radius=10" />
+</p>
+
+## 😂 Random Dev Meme
+<p align="center">
   <img src="https://github-readme-memes.vercel.app/meme?theme=dark" />
 </p>
